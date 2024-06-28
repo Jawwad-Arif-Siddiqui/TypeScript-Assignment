@@ -1,0 +1,6 @@
+tsc --init
+npm init
+cls use for clear cmd
+npm i --save-dev @types/inquirer
+Math.floor(Math.random() * 10) Math.floor decimal hatana ka lia use hota ha but 0 number ayega es ka lia multiply
+use hoga kese bhi numbersa
